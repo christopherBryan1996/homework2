@@ -1,0 +1,27 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherBryan1996/homework2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherBryan1996/homework2/issues"
+  },
+  "homepage": "https://github.com/christopherBryan1996/homework2#readme",
+  "dependencies": {
+    "lit": "^2.4.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  }
+}
